@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: ${Spring__Application__Name}
-  cloud:
-    config:
-      uri: ${Spring__Cloud__Config__Uri}
